@@ -17,7 +17,7 @@ https://www.callicoder.com/spring-boot-flyway-database-migration-example/
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-flyway-example.git
+git clone https://github.com/aaffio/spring-boot-flyway-example.git
 ```
 
 **2. Create Mysql database**
